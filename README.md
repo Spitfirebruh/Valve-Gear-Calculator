@@ -5,6 +5,7 @@ A friendly commission written to automate the tutorial found on the website http
 - **Calculator**
   -
   - Calculate: After the user has input the necessary numbers, the program will go through 9 steps of calculations, getting a list of numbers needed for CAD software or physical measurements.
+      - Note that the calculator currently only supports the metric system (specifically inches).
   - File Input: The user can choose to either input their numbers manually in the console, or input a file to automate the process (the file does need to be named "input.txt" to work).
   - File Output: After the calculations sucessfully finish, the user will gain access to save the results to "inputs/inputs.txt" and "outputs/outputs.txt."
       - The saved "inputs.txt" can be used as is or edited in future usage of the program to streamline the process.
